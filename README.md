@@ -1,2 +1,3 @@
 # Ducklighted.github.io
-idk
+bruhhhhhh
+theme: jekyll-theme-minimal
